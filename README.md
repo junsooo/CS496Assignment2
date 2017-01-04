@@ -1,7 +1,6 @@
 # CS496Assignment2
 
-Project2<깨깨오톡> 신윤열, 이준수
-
+Project2<깨깨오톡> 이준수, 신윤열<br>
 Tab A: <연락처 통합><br>
 폰의 연락처 정보와 Facebook 연락처를 통합해 서버(Node.js) DB(Mongodb)에 기록해 listview로 표현했습니다.<br>가져오도록 한 정보는 이름, 핸드폰 번호(존재하면)입니다.<br>
 앱을 켜자마자 폰의 연락처 정보를 불러올 수 있도록 했습니다.<br><br>
